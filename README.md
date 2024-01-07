@@ -1,7 +1,5 @@
 # README
-
-Rails 7.1 環境で色々遊ぶための雛形プロジェクトです。
-RSpec, FactoryBotのみ導入済みです。
+rakeの挙動を確認するためのレポジトリです。
 
 -  Ruby version
     - `3.2.0`
